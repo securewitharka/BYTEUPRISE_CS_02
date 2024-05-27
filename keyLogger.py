@@ -1,7 +1,3 @@
-'''
-Task 02 ByteUprise
-'''
-
 from pynut import keyboard
 import time
 
